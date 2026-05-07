@@ -1,0 +1,6 @@
+org\dyb\service\impl\VideoServiceImpl.class
+org\dyb\service\BgmService.class
+org\dyb\service\impl\BgmServiceImpl.class
+org\dyb\service\impl\UserServiceImpl.class
+org\dyb\service\VideoService.class
+org\dyb\service\UserService.class
