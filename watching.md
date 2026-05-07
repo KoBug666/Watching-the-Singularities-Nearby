@@ -20,13 +20,15 @@
 
 根据小程序的业务流程分析，本小程序的业务逻辑模块分为浏览视频，个人信息管理，上传视频，视频播放，分享五大功能模块。小程序功能结构图如下：
 
-![img](file:///C:\Users\15496\AppData\Local\Temp\ksohtml26068\wps4.jpg) 
+<img width="418" height="284" alt="image" src="https://github.com/user-attachments/assets/c961af04-9773-412a-8a4f-2fd4cbdd0e6a" />
+
 
 图2.2小程序功能结构图
 
 根据对短视频小程序的业务流程图和功能结构图的分析，汇出小程序用户的系统功能用例图（未登录为游客，已登录为用户），如图2.3。
 
-![img](file:///C:\Users\15496\AppData\Local\Temp\ksohtml26068\wps5.jpg) 
+<img width="273" height="332" alt="image" src="https://github.com/user-attachments/assets/3c34c93a-3a1b-4fe4-ac3c-36af114ab269" />
+
 
 图2.3小程序用户的系统功能用例图
 
@@ -56,7 +58,7 @@
 
 后端项目结构图，如图2.4。
 
-![img](file:///C:\Users\15496\AppData\Local\Temp\ksohtml26068\wps6.jpg) 
+<img width="250" height="153" alt="image" src="https://github.com/user-attachments/assets/eeccd367-2254-4552-8bf4-6f844135fad2" />
 
 图2.4后端项目结构图
 
@@ -64,7 +66,9 @@
 
 short_video-dev是创建的SpringBoot项目的maven父项目，包含其余五个子项目。short_video-dev项目结构图，如图2.11。
 
-![img](file:///C:\Users\15496\AppData\Local\Temp\ksohtml26068\wps7.jpg) 
+
+<img width="224" height="150" alt="image" src="https://github.com/user-attachments/assets/c964c6a9-93d0-4947-8ff7-96cecc950ed9" />
+
 
 图2.5 short_video-dev项目结构图
 
