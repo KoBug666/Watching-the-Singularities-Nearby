@@ -128,7 +128,8 @@ short_video-dev-mini-api项目结构图，如图2.11。
 
 注册登录页面运行效果图，如图3.1。
 
-![img](file:///C:\Users\15496\AppData\Local\Temp\ksohtml26068\wps14.jpg)![img](file:///C:\Users\15496\AppData\Local\Temp\ksohtml26068\wps15.jpg) 
+<img width="413" height="324" alt="image" src="https://github.com/user-attachments/assets/43950093-4421-4722-ab29-df0e084ad9ac" />
+
 
 图3.1 注册登录页面运行效果图
 
@@ -148,7 +149,8 @@ short_video-dev-mini-api项目结构图，如图2.11。
 
 查看其它用户的个人信息页面展示效果图，如图4.2。
 
-![img](file:///C:\Users\15496\AppData\Local\Temp\ksohtml26068\wps16.jpg) 
+<img width="169" height="301" alt="image" src="https://github.com/user-attachments/assets/58502e56-f12e-4fdb-a14b-4e4936de5bc1" />
+
 
 图3.2 查看其它用户个人信息页面运行效果图
 
@@ -174,7 +176,8 @@ N              ![img](file:///C:\Users\15496\AppData\Local\Temp\ksohtml26068\wps
 
 上传视频页面运行效果图，如图4.4。
 
-![img](file:///C:\Users\15496\AppData\Local\Temp\ksohtml26068\wps18.jpg) 
+<img width="165" height="296" alt="image" src="https://github.com/user-attachments/assets/8a0dd89e-520d-4f72-b10f-7712de225286" />
+
 
 图3.4 上传视频页面运行效果图
 
@@ -184,9 +187,13 @@ N              ![img](file:///C:\Users\15496\AppData\Local\Temp\ksohtml26068\wps
 
 首页是可下拉的视频列表，首页一页展示的视频数为五个，在上拉触底时会触发上拉触底事件onReachBottom并判断当前页数和总页数是否相等，相等会弹出消息提示：以及没有视频啦~~，如果不等则当前页数加一并显示当前页数内所有的视频列表。点击视频封面触发showVideoInfo事件，通过wx.redirectTo跳转到视频播放页并将对应视频信息返回给那一页。
 
-首页运行效果图，如图4.5。![img](file:///C:\Users\15496\AppData\Local\Temp\ksohtml26068\wps19.jpg)\
+首页运行效果图，如图4.5。
+
+<img width="164" height="286" alt="image" src="https://github.com/user-attachments/assets/6a27c5d3-b9be-4c61-9133-d5d980b55418" />
 
 图3.5 首页运行效果图
+<img width="189" height="315" alt="image" src="https://github.com/user-attachments/assets/246d541e-6597-42bc-adf2-81858f502f8d" />
+
 
 ### 2．视频播放页
 
@@ -210,13 +217,15 @@ N              ![img](file:///C:\Users\15496\AppData\Local\Temp\ksohtml26068\wps
 
 视频播放页运行效果图，如图4.6。
 
-![img](file:///C:\Users\15496\AppData\Local\Temp\ksohtml26068\wps20.jpg) 
+<img width="183" height="322" alt="image" src="https://github.com/user-attachments/assets/b4a2a3a6-66f8-4843-a9b8-da5e92e5c388" />
+
 
 图3.6 视频播放页运行效果图
 
 评论功能的展示效果图，如图3.7。
 
-![img](file:///C:\Users\15496\AppData\Local\Temp\ksohtml26068\wps21.jpg) 
+<img width="130" height="231" alt="image" src="https://github.com/user-attachments/assets/4d0de5ec-fa3d-468d-af09-43add694a341" />
+
 
 图3.7 评论功能展示效果图
 
@@ -226,7 +235,8 @@ N              ![img](file:///C:\Users\15496\AppData\Local\Temp\ksohtml26068\wps
 
  搜索页面的运行效果图（包含搜索前，输入搜索关键词时，点击搜索按钮后三张图），如图4.8。
 
-   ![img](file:///C:\Users\15496\AppData\Local\Temp\ksohtml26068\wps22.jpg)![img](file:///C:\Users\15496\AppData\Local\Temp\ksohtml26068\wps23.jpg)![img](file:///C:\Users\15496\AppData\Local\Temp\ksohtml26068\wps24.jpg)
+ <img width="570" height="328" alt="image" src="https://github.com/user-attachments/assets/b7e81756-ac93-4e9e-8889-99b7c1317a6c" />
+
 
 图3.8 搜索页面运行效果图
 
@@ -236,7 +246,8 @@ N              ![img](file:///C:\Users\15496\AppData\Local\Temp\ksohtml26068\wps
 
 分享功能展示效果图，如图3.9。
 
-​               ![img](file:///C:\Users\15496\AppData\Local\Temp\ksohtml26068\wps25.jpg)
+​              <img width="155" height="235" alt="image" src="https://github.com/user-attachments/assets/c250bc98-0673-43e2-b0dd-1f8f25730cd4" />
+
 
 图3.9 分享功能展示效果图
 
