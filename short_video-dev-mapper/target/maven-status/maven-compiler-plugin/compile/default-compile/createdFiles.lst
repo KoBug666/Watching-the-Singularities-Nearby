@@ -1,0 +1,10 @@
+org\dyb\mapper\CommentsMapperCustom.class
+org\dyb\mapper\UsersMapper.class
+org\dyb\mapper\VideosMapperCustom.class
+org\dyb\mapper\BgmMapper.class
+org\dyb\mapper\UsersFansMapper.class
+org\dyb\mapper\UsersLikeVideosMapper.class
+org\dyb\mapper\UsersReportMapper.class
+org\dyb\mapper\SearchRecordsMapper.class
+org\dyb\mapper\VideosMapper.class
+org\dyb\mapper\CommentsMapper.class
