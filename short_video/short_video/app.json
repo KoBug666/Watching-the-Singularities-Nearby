@@ -1,0 +1,20 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/mine/mine",
+    "pages/videoinfo/videoinfo",
+    "pages/report/report",
+    "pages/userLogin/login",
+    "pages/chooseBgm/chooseBgm",
+    "pages/userRegist/regist",
+    "pages/searchVideo/searchVideo"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "watching——记录身边的奇点",
+    "navigationBarTextStyle": "black"
+  },
+  "debug": true,
+  "sitemapLocation": "sitemap7.json"
+}
