@@ -1,0 +1,12 @@
+org\dyb\pojo\vo\CommentsVO.class
+org\dyb\pojo\Comments.class
+org\dyb\pojo\Users.class
+org\dyb\pojo\UsersFans.class
+org\dyb\pojo\Bgm.class
+org\dyb\pojo\Videos.class
+org\dyb\pojo\vo\PublisherVideo.class
+org\dyb\pojo\vo\VideosVO.class
+org\dyb\pojo\SearchRecords.class
+org\dyb\pojo\UsersReport.class
+org\dyb\pojo\vo\UsersVO.class
+org\dyb\pojo\UsersLikeVideos.class
